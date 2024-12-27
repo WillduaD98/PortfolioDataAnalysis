@@ -1,0 +1,79 @@
+﻿d_codigo,d_asenta,d_tipo_asenta,D_mnpio,d_estado,d_ciudad,d_CP,c_estado,c_oficina,c_CP,c_tipo_asenta,c_mnpio,id_asenta_cpcons,d_zona,c_cve_ciudad
+36000,Guanajuato Centro,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0001,Urbano,05
+36003,Alameda,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4455,Urbano,05
+36010,Cata,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0006,Urbano,05
+36010,Mellado,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0007,Urbano,05
+36010,Garrapata,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7158,Urbano,05
+36013,Cerro de San Antonio,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7137,Urbano,05
+36013,La Gualdra,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7165,Urbano,05
+36013,San Luisito,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7189,Urbano,05
+36014,San Clemente,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0027,Urbano,05
+36014,Ex-Hacienda de Durán,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7155,Urbano,05
+36014,Ex-Hacienda de Luna,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7156,Urbano,05
+36014,Nuevo,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7178,Urbano,05
+36015,Las Huertas,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0016,Urbano,05
+36015,Las Palmas,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4429,Urbano,05
+36015,Cerro del Cuarto,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,5168,Urbano,05
+36015,La Calzada,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7164,Urbano,05
+36015,Minera,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7174,Urbano,05
+36015,Misión Del Quijote,Conjunto habitacional,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,12,015,7175,Urbano,05
+36015,Modelo,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7176,Urbano,05
+36016,Cerro de Sirena,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7139,Urbano,05
+36016,Cerro del Sagrado Corazón,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7143,Urbano,05
+36016,Jales de Durán,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7162,Urbano,05
+36020,San Javier,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0008,Urbano,05
+36020,Lomas de San Matías,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0010,Urbano,05
+36023,Valenciana,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0097,Rural,05
+36023,Cerro del Erizo,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7140,Urbano,05
+36023,Filtros de Valenciana,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7157,Urbano,05
+36023,Lomas de Valenciana,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7169,Urbano,05
+36024,Cerro de la Garita,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7135,Urbano,05
+36024,De la Cochera,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7146,Urbano,05
+36030,El Carrizo,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0011,Urbano,05
+36030,Nejayote,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0025,Urbano,05
+36030,Panteón,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4428,Urbano,05
+36030,La Venada,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4430,Urbano,05
+36030,Maravillas,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7172,Urbano,05
+36033,Arroyo del Pirúl,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7127,Urbano,05
+36033,Del pueblito de Rocha,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7148,Urbano,05
+36040,Pueblito de Rocha,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0012,Urbano,05
+36040,Encino,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4431,Urbano,05
+36040,Santa Fe,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4436,Urbano,05
+36040,La Luz,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,5070,Urbano,05
+36040,La Aldana (Ramón Rangel),Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,5521,Urbano,05
+36043,Presa de Rocha,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,5410,Urbano,05
+36044,Arroyo Aldana,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7126,Urbano,05
+36044,Del Bosque,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7147,Urbano,05
+36044,Los Pinos,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7171,Urbano,05
+36050,Noria Alta,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0013,Urbano,05
+36053,San Antonio,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7185,Urbano,05
+36053,San Gabriel de Barrera,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7186,Urbano,05
+36060,La Escalera San Javier,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0015,Urbano,05
+36060,Gavilánes,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7159,Urbano,05
+36080,Residencial Casa Colorada,Fraccionamiento,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,21,015,0028,Urbano,05
+36080,Loma Bonita,Fraccionamiento,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,21,015,4433,Urbano,05
+36080,Loma Pozuelos,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4434,Urbano,05
+36080,Residencial Real de San Juan,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4461,Urbano,05
+36080,Camino Real,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7130,Urbano,05
+36080,Cerro del Hormiguero,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7142,Urbano,05
+36080,Las Terrazas,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7166,Urbano,05
+36080,Molino del Rey,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7177,Urbano,05
+36086,Municipio Libre,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0017,Urbano,05
+36089,Nuevo Guanajuato,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0020,Urbano,05
+36089,Picachos,Fraccionamiento,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,21,015,5466,Urbano,05
+36089,Cerro de San Miguel,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7138,Urbano,05
+36089,Cerro del Gallo,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7141,Urbano,05
+36089,Pozuelos,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7182,Urbano,05
+36090,Pastita,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,0021,Urbano,05
+36090,Zapote,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4426,Urbano,05
+36090,Cerro de los Leones,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4432,Urbano,05
+36090,Cerro de la Bolita,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7132,Urbano,05
+36093,Peñolera,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4435,Urbano,05
+36093,Cerro de Guijas,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7131,Urbano,05
+36093,Peñafiel,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7179,Urbano,05
+36094,Universitario,Fraccionamiento,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,21,015,4437,Urbano,05
+36094,Paseo de La Presa,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,4763,Urbano,05
+36094,Lomas de Zaragoza,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,6157,Urbano,05
+36094,El Saucillo,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7153,Urbano,05
+36094,Embajadoras,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7154,Urbano,05
+36094,La Bufa,Colonia,Guanajuato,Guanajuato,Guanajuato,36001,11,36001,,09,015,7163,Urbano,05
